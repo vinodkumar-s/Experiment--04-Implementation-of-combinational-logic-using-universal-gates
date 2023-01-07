@@ -27,6 +27,7 @@ NOR gate is actually a combination of two logic gates: OR gate followed by NOT g
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
 ## Logic Diagram
+![output](/logic.jpg)
 ## Procedure:
 #### 1.Create a project with required entities.
 #### 2.Create a module along with respective file name.
